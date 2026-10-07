@@ -1,0 +1,18 @@
+
+BoilerPlate - Boiler plate is neccesory code use for run any code and run code agian.
+tags - tags is a container jiske under ham kuch likh ke rakhte hai aur har ek tag ek alag alag functionality deta hai.
+tags are 2 types - conatiner and empt.y
+container - opening aur closing dono tag hote hai.
+empty - opening tag bas hota hai..
+heading tag - h1,h2,h3,h4,h5,h6 all are depends on its size.
+HR tag - heading ke neeche line deta hai.
+PR tag - horizontal row ko break kar deta hai.
+B tag - for bold the letter.
+Compiler - compiler comment aur code ko read karta hai lekin execute nhi karta.
+name 
+summary
+education 
+projects 
+achivement
+class- ek se jyada element ke liye ham class ka use karte.
+id-
